@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /*
- With this
+ This is the missing css in the rendered HTML
  */
 .container {
     width: 100%;
