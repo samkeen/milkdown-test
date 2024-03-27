@@ -3,7 +3,6 @@ import { Milkdown, useEditor } from '@milkdown/vue';
 import { defaultValueCtx, Editor, rootCtx } from '@milkdown/core';
 import { nord } from '@milkdown/theme-nord'
 import { commonmark } from '@milkdown/preset-commonmark'
-import '@milkdown/theme-nord/style.css'
 
 const markdown =
 `# Milkdown Vue Commonmark
